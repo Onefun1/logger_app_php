@@ -1,0 +1,5 @@
+
+[10-20-2021 15:31:58.337900] - info - Doing work - {"config":"ok","server":"ok"}
+[10-20-2021 15:31:58.338700] - error - Oh no! - {"exception":"Some error"}
+[10-20-2021 15:42:58.358200] - info - Doing work - {"config":"ok","server":"ok"}
+[10-20-2021 15:42:58.358900] - error - Oh no! - {"exception":"Some error"}
